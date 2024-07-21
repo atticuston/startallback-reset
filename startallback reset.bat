@@ -4,10 +4,10 @@ setlocal enabledelayedexpansion
 :: CAUTION!! Use this script at your own risk.
 :: I am not responsible for any damage that may occur as a result of running this script.
 
-echo StartAllBack CleanUp by iandiv
-echo This script will clean up the registry keys
+echo StartAllBack CleanUp by iandiv modified by atticuston to support a bat version
+echo This script will clean up the registry keys that are assosiated with the trial period of the program "startallback" effectively restarting the trial allowing you 100 more days of the free trial
 echo.
-echo CAUTION!! Use this script at your own risk.
+echo CAUTION!! Use this script at your own risk. This script was modified to be a bit safer however it's still messing with the regestry, second this script was not built to support pirating startallback is a great tool and project that should be supported if you have the money and the means too.
 echo I am not responsible for any damage that may occur as a result of running this script.
 echo.
 echo Do you want to begin?
